@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "447165347115",
+    "project_id": "smartaccess-3df78",
+    "storage_bucket": "smartaccess-3df78.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447165347115:android:f5853b274911fb97d4816e",
+        "android_client_info": {
+          "package_name": "com.example.smart_access"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgC12a_pZWixPt-1fDZhA6eXOQ-zBxYOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
