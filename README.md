@@ -5,7 +5,7 @@ Facial Authentication System
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 [![OpenCV](https://img.shields.io/badge/OpenCV-4.5%2B-green.svg)](https://opencv.org/)
 
-Smart Access is a secure facial recognition authentication system that controls access to restricted areas using biometric facial identification.
+Smart Access is a secure facial recognition system controlling access to restricted areas via biometric identification. Built with Flutter (Dart) and a Python FastAPI backend, it enables real-time verification. It uses PostgreSQL for data management and OpenCV with face_recognition for AI-powered authentication. The system ensures reliable, secure, and seamless mobile identity verification.
 
 ## Features
 
